@@ -1,1 +1,3 @@
 # SHpre
+
+Recordando lo basico
