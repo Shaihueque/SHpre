@@ -1,0 +1,36 @@
+body{
+    background-color: chocolate;
+}
+
+.title{
+    font-size: 2.8em;
+    color: crimson;
+}
+
+.logo{
+    width: 300px;
+}
+
+#principal{
+    font-size: 4em;
+}
+
+#titulos{
+    border: 2px solid black;
+    /* vw es un porcentaje de la pantalla donde estemos*/
+    width: 60vw;
+    margin: auto;
+    padding: 3em;
+}
+
+.cards{
+    border: 1px black solid;
+    width: fit-content;
+    padding: 1em 1em 1em 1em;
+    border-radius: 10%;
+    transition: 1s;
+}
+
+.cards:hover{
+    background-color: darkgoldenrod;
+}
